@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="selenium-api-4.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-api-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-chrome-driver-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-chromium-driver-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-devtools-v85-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-devtools-v94-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-devtools-v95-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-devtools-v96-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-edge-driver-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-firefox-driver-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-firefox-xpi-driver-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-http-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-ie-driver-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-java-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-json-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-opera-driver-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-remote-driver-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-safari-driver-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-support-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-api-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-chrome-driver-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-chromium-driver-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-devtools-v85-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-devtools-v94-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-devtools-v95-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-devtools-v96-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-edge-driver-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-firefox-driver-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-firefox-xpi-driver-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-http-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-ie-driver-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-json-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-opera-driver-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-remote-driver-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-safari-driver-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/selenium-support-4.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

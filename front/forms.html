@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página do form</title>
+</head>
+<body>
+    <h1>Cadastro de dados</h1>
+    <form>
+        <label for="nome">Nome</label>
+        <input type="text" name="nome" id="nome"><br><br>
+        <label for="sobrenome">Sobrenome</label>
+        <input type="text" name="sobrenome" id="sobrenome" class="input"><br><br>
+        <div>
+            <label for="dataNascimento">Data nascimento</label>
+            <input type="date" id="dataNascimento" class="input"><br><br>
+            <label for="corCabelo">Cor cabelo</label>
+            <input type="color" id="corCabelo" value="#ff0000"><br><br>
+            <label for="telefone">telefone</label>
+            <input type="text" id="telefone"><br><br>
+            <input type="image">
+        </div>
+        <br><br>
+        <input type="checkbox" value="São Carlos" disabled> São Carlos <br>
+        <input type="checkbox" value="Ibate" checked> Ibate <br>
+        <input type="checkbox" value="Araraquara"> Araraquara <br>
+
+        <br><br>
+        <select name="dropdown" id="dropdown">
+            <option value="fiat">fiat</option>
+            <option value="honda">honda</option>
+            <option value="ferrari">ferrari</option>
+        </select>
+
+    </form>
+    <br><br>
+    <a href="/voltar.html" name="link">Link para a pagina de Voltar</a>
+
+    <p id="paragrafo">Texto dentro do paragrafo</p>
+</body>
+</html>
